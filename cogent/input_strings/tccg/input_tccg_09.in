@@ -1,0 +1,4 @@
+# abcd-ea-ebcd # 9
+# 72 72 72 72 72
+# t3 [a,b,c,d] += sum(e) * t2 [e,a] * v2 [e,b,c,d];
+t3 [a,72,b,72,c,72,d,72] += sum(e,72) * t2 [e,a] * v2 [e,b,c,d];

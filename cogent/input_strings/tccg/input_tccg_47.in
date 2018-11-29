@@ -1,0 +1,4 @@
+# abcdef-gfac-degb
+# 24 16 16 24 16 16 24
+# t3 [a,b,c,d,e,f] += sum(g) * t2 [g,f,a,c] * v2 [d,e,g,b];
+t3 [a,24,b,16,c,16,d,24,e,16,f,16] += sum(g,24) * t2 [g,f,a,c] * v2 [d,e,g,b];

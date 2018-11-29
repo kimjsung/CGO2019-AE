@@ -1,0 +1,48 @@
+abc-bda-dc          # 6
+abc-dca-bd          # 12
+abcd-dbea-ec        # 3     ###
+abcd-deca-be        # 5     ###
+abcd-ebad-ce        # 7
+abcde-efbad-cf      # 1     ###
+abcde-ecbfa-fd      # 4     ###
+abcde-efcad-bf      # 2     ###
+abcd-ea-ebcd        # 13
+abcd-eb-aecd        # 14
+abcd-ec-abed        # 15
+ab-ac-cb            # 21
+ab-acd-dbc          # 18
+ab-cad-dcb          # 17
+abc-acd-db          # 19    ###
+abc-ad-bdc 
+abc-adc-bd          # 20    ###
+abc-adc-db                  ###
+abc-adec-ebd        # 16
+abcd-aebf-dfce      # 24    ###
+abcd-aebf-fdec      # 22    ###
+abcd-aecf-bfde              ###
+abcd-aecf-fbed              ###
+abcd-aedf-bfce      # 24    ###
+abcd-aedf-fbec              ###
+abcd-aefb-fdce              ### 
+abcd-aefc-fbed              ###
+abcd-eafb-fdec              ###
+abcd-eafc-bfde              ###
+abcd-eafd-fbec      # 23    ###
+abcdef-dega-gfbc    # 8
+abcdef-degb-gfac    # 10
+abcdef-degc-gfab    # 11
+abcdef-dfga-gebc 
+abcdef-dfgb-geac    # 9
+abcdef-dfgc-geab 
+abcdef-efga-gdbc 
+abcdef-efgb-gdac 
+abcdef-efgc-gdab 
+abcdef-gdab-efgc 
+abcdef-gdac-efgb 
+abcdef-gdbc-efga 
+abcdef-geab-dfgc 
+abcdef-geac-dfgb 
+abcdef-gebc-dfga 
+abcdef-gfab-degc 
+abcdef-gfac-degb 
+abcdef-gfbc-dega 

@@ -1,0 +1,27 @@
+sp6_t_p61_1:
+triplp5sx(h3,h2,h1,p6,p5,p4) -= t2suh2(h7,p4,p5,h1)*v2suh2(h3,h2,p6,h7)
+     
+sp6_t_p61_2:
+triplp5sx(h3,h1,h2,p6,p5,p4) += t2suh2(h7,p4,p5,h1)*v2suh2(h3,h2,p6,h7)
+
+sp6_t_p61_3:
+triplp5sx(h1,h3,h2,p6,p5,p4) -= t2suh2(h7,p4,p5,h1)*v2suh2(h3,h2,p6,h7)
+
+sp6_t_p61_4:
+triplp5sx(h3,h2,h1,p5,p4,p6) -= t2suh2(h7,p4,p5,h1)*v2suh2(h3,h2,p6,h7)
+
+sp6_t_p61_5:
+triplp5sx(h3,h1,h2,p5,p4,p6) += t2suh2(h7,p4,p5,h1)*v2suh2(h3,h2,p6,h7)
+
+sp6_t_p61_6:
+triplp5sx(h1,h3,h2,p5,p4,p6) -= t2suh2(h7,p4,p5,h1)*v2suh2(h3,h2,p6,h7)
+
+sp6_t_p61_7:
+triplp5sx(h3,h2,h1,p5,p6,p4) += t2suh2(h7,p4,p5,h1)*v2suh2(h3,h2,p6,h7)
+
+sp6_t_p61_8:
+triplp5sx(h3,h1,h2,p5,p6,p4) -= t2suh2(h7,p4,p5,h1)*v2suh2(h3,h2,p6,h7)
+
+sp6_t_p61_9:
+triplp5sx(h1,h3,h2,p5,p6,p4) += t2suh2(h7,p4,p5,h1)*v2suh2(h3,h2,p6,h7)
+

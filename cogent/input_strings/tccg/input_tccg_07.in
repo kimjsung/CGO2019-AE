@@ -1,0 +1,4 @@
+# abcde-ecbfa-fd # 7
+# 48 32 32 24 48 48
+# t3 [a,b,c,d,e] += sum(f) * t2 [e,c,b,f,a] * v2 [f,d];
+t3 [a,48,b,32,c,32,d,24,e,48] += sum(f,48) * t2 [e,c,b,f,a] * v2 [f,d];

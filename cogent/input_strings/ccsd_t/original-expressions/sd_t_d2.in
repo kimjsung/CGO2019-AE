@@ -1,0 +1,30 @@
+/*CCSD(T) doubles component expressions. 
+*/
+      sd_t_d2_1 :
+      t3[h3,h2,h1,p6,p5,p4] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sd_t_d2_2 :
+      t3[h2,h1,h3,p6,p5,p4] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sd_t_d2_3 :
+      t3[h2,h3,h1,p6,p5,p4] += t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sd_t_d2_4 :
+      t3[h3,h2,h1,p6,p4,p5] += t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sd_t_d2_5 :
+      t3[h2,h1,h3,p6,p4,p5] += t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sd_t_d2_6 :
+      t3[h2,h3,h1,p6,p4,p5] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sd_t_d2_7 :
+      t3[h3,h2,h1,p4,p6,p5] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sd_t_d2_8 :
+      t3[h2,h1,h3,p4,p6,p5] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sd_t_d2_9 :
+      t3[h2,h3,h1,p4,p6,p5] += t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+

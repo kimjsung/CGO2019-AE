@@ -1,0 +1,28 @@
+/*h1h1Sp6(T) p6ouh2lp5s h1omponp5nt p5xprp5ssions. 
+*/
+      sp6_t_p62_1 :
+      t3[h3,h2,h1,p6,p5,p4] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sp6_t_p62_2 :
+      t3[h2,h1,h3,p6,p5,p4] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sp6_t_p62_3 :
+      t3[h2,h3,h1,p6,p5,p4] += t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sp6_t_p62_4 :
+      t3[h3,h2,h1,p6,p4,p5] += t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sp6_t_p62_5 :
+      t3[h2,h1,h3,p6,p4,p5] += t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sp6_t_p62_6 :
+      t3[h2,h3,h1,p6,p4,p5] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sp6_t_p62_7 :
+      t3[h3,h2,h1,p4,p6,p5] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sp6_t_p62_8 :
+      t3[h2,h1,h3,p4,p6,p5] -= t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]
+
+      sp6_t_p62_9 :
+      t3[h2,h3,h1,p4,p6,p5] += t2[p7,p4,h1,h2]*v2[p7,h3,p6,p5]

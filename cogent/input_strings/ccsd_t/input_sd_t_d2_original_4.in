@@ -1,0 +1,2 @@
+# sd_t_d2_4 :
+t3 [a,b,c,d,f,e] += sum(g) * t2 [g,f,c,b] * v2 [g,a,d,e];

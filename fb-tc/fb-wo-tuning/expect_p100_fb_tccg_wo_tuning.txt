@@ -1,0 +1,9 @@
+tccg-40 >> ops:  905969664 	time(s):  1.64641919 	GFLOPS:  0.55026671
+tccg-41 >> ops:  905969664 	time(s):  1.64693880 	GFLOPS:  0.55009310
+tccg-42 >> ops:  905969664 	time(s):  1.70686858 	GFLOPS:  0.53077880
+tccg-43 >> ops:  905969664 	time(s):  1.64643858 	GFLOPS:  0.55026023
+tccg-44 >> ops:  905969664 	time(s):  1.64635917 	GFLOPS:  0.55028677
+tccg-45 >> ops:  905969664 	time(s):  1.65325188 	GFLOPS:  0.54799252
+tccg-46 >> ops:  905969664 	time(s):  1.64402917 	GFLOPS:  0.55106666
+tccg-47 >> ops:  905969664 	time(s):  1.64410773 	GFLOPS:  0.55104033
+tccg-48 >> ops:  905969664 	time(s):  1.63851065 	GFLOPS:  0.55292266

@@ -1,0 +1,47 @@
+tccg- 1 >> ops:  1457823744 	time(ms):  2.4187 	GFLOPS:  602.7228
+tccg- 2 >> ops:  1383063552 	time(ms):  1.6401 	GFLOPS:  843.2733
+tccg- 3 >> ops:  1289945088 	time(ms):  1.9918 	GFLOPS:  647.6415
+tccg- 4 >> ops:  1289945088 	time(ms):  2.5688 	GFLOPS:  502.1633
+tccg- 5 >> ops:  1289945088 	time(ms):  1.6848 	GFLOPS:  765.6147
+tccg- 6 >> ops:  3623878656 	time(ms):  6.8286 	GFLOPS:  530.6909
+tccg- 7 >> ops:  5435817984 	time(ms):  10.6805 	GFLOPS:  508.9479
+tccg- 8 >> ops:  3623878656 	time(ms):  6.4944 	GFLOPS:  558.0033
+tccg- 9 >> ops:  3869835264 	time(ms):  2.2831 	GFLOPS:  1694.9574
+tccg-10 >> ops:  3869835264 	time(ms):  2.1614 	GFLOPS:  1790.4672
+tccg-11 >> ops:  3869835264 	time(ms):  2.1125 	GFLOPS:  1831.8547
+tccg-12 >> ops:  270115799040 	time(ms):  97.0354 	GFLOPS:  2783.6825
+tccg-13 >> ops:  17057783808 	time(ms):  28.2293 	GFLOPS:  604.2588
+tccg-14 >> ops:  17979826176 	time(ms):  41.0065 	GFLOPS:  438.4629
+tccg-15 >> ops:  17057783808 	time(ms):  7.3613 	GFLOPS:  2317.2121
+tccg-16 >> ops:  17057783808 	time(ms):  6.8649 	GFLOPS:  2484.7844
+tccg-17 >> ops:  17057783808 	time(ms):  7.0711 	GFLOPS:  2412.3076
+tccg-18 >> ops:  17057783808 	time(ms):  6.7990 	GFLOPS:  2508.8636
+tccg-19 >> ops:  3869835264 	time(ms):  3.2874 	GFLOPS:  1177.1742
+tccg-20 >> ops:  278628139008 	time(ms):  104.8690 	GFLOPS:  2656.9161
+tccg-21 >> ops:  278628139008 	time(ms):  110.2679 	GFLOPS:  2526.8291
+tccg-22 >> ops:  278628139008 	time(ms):  104.3360 	GFLOPS:  2670.4890
+tccg-23 >> ops:  278628139008 	time(ms):  111.0802 	GFLOPS:  2508.3511
+tccg-24 >> ops:  278628139008 	time(ms):  108.6857 	GFLOPS:  2563.6136
+tccg-25 >> ops:  278628139008 	time(ms):  111.5056 	GFLOPS:  2498.7816
+tccg-26 >> ops:  278628139008 	time(ms):  109.4905 	GFLOPS:  2544.7700
+tccg-27 >> ops:  278628139008 	time(ms):  107.5508 	GFLOPS:  2590.6654
+tccg-28 >> ops:  278628139008 	time(ms):  167.4199 	GFLOPS:  1664.2474
+tccg-29 >> ops:  278628139008 	time(ms):  113.3569 	GFLOPS:  2457.9725
+tccg-30 >> ops:  278628139008 	time(ms):  239.2686 	GFLOPS:  1164.4994
+tccg-31 >> ops:  1811939328 	time(ms):  1.2738 	GFLOPS:  1422.4900
+tccg-32 >> ops:  1811939328 	time(ms):  1.0247 	GFLOPS:  1768.2719
+tccg-33 >> ops:  1811939328 	time(ms):  1.0434 	GFLOPS:  1736.6021
+tccg-34 >> ops:  1811939328 	time(ms):  1.2956 	GFLOPS:  1398.5643
+tccg-35 >> ops:  1811939328 	time(ms):  1.0329 	GFLOPS:  1754.2491
+tccg-36 >> ops:  1811939328 	time(ms):  1.0311 	GFLOPS:  1757.2979
+tccg-37 >> ops:  1811939328 	time(ms):  1.2612 	GFLOPS:  1436.6743
+tccg-38 >> ops:  1811939328 	time(ms):  1.0359 	GFLOPS:  1749.1552
+tccg-39 >> ops:  1811939328 	time(ms):  1.0326 	GFLOPS:  1754.6823
+tccg-40 >> ops:  1811939328 	time(ms):  1.0075 	GFLOPS:  1798.4313
+tccg-41 >> ops:  1811939328 	time(ms):  1.0047 	GFLOPS:  1803.5295
+tccg-42 >> ops:  1811939328 	time(ms):  1.2401 	GFLOPS:  1461.1412
+tccg-43 >> ops:  1811939328 	time(ms):  1.0033 	GFLOPS:  1806.0624
+tccg-44 >> ops:  1811939328 	time(ms):  1.0050 	GFLOPS:  1802.9570
+tccg-45 >> ops:  1811939328 	time(ms):  1.2461 	GFLOPS:  1454.0882
+tccg-46 >> ops:  1811939328 	time(ms):  0.9897 	GFLOPS:  1830.8206
+tccg-47 >> ops:  1811939328 	time(ms):  0.9954 	GFLOPS:  1820.2268
