@@ -19,7 +19,7 @@ can be accessed using ssh (the ssh-key is provided with the submission).
 ## COGENT(COde GENerator for Tensor Contractions)
 The code generator (COGENT) is based on Python 3.5. COGENT outputs CUDA kernels.  
 
-- git-repository: http://gitlab.hpcrl.cse.ohio-state.edu/jinsung/cgo2019-ae-draft  
+- git-repository: https://github.com/kimjsung/CGO2019-AE (http://gitlab.hpcrl.cse.ohio-state.edu/jinsung/cgo2019-ae-draft) . 
 - Location: ./cogent/
 
 Ensure that CUDA_ARCH variable in the cogent Makefile is set
