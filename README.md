@@ -172,3 +172,12 @@ conflicting. Try the below to resolve the version conflicts
 - conda install cudatoolkit=8.0
 - conda install -y -c pytorch pytorch=0.4.0 torchvision cuda90
 - conda install -y -c pytorch -c tensorcomp tensor_comprehensions
+
+
+COPYRIGHT
+
+All files in this archive which do not include a prior copyright are by default included in this tool and copyrighted 2018 Ohio State University.
+
+MORE INFORMATION
+
+For more information on how to add a new benchmark, see the docs/ folder or contact me at kim.4232@osu.edu
